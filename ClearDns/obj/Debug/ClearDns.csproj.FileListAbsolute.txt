@@ -1,0 +1,10 @@
+C:\Users\Carlo\source\repos\ClearDns\ClearDns\bin\Debug\ClearDns.exe.config
+C:\Users\Carlo\source\repos\ClearDns\ClearDns\bin\Debug\ClearDns.exe
+C:\Users\Carlo\source\repos\ClearDns\ClearDns\bin\Debug\ClearDns.pdb
+C:\Users\Carlo\source\repos\ClearDns\ClearDns\obj\Debug\ClearDns.csproj.AssemblyReference.cache
+C:\Users\Carlo\source\repos\ClearDns\ClearDns\obj\Debug\ClearDns.Form1.resources
+C:\Users\Carlo\source\repos\ClearDns\ClearDns\obj\Debug\ClearDns.Properties.Resources.resources
+C:\Users\Carlo\source\repos\ClearDns\ClearDns\obj\Debug\ClearDns.csproj.GenerateResource.cache
+C:\Users\Carlo\source\repos\ClearDns\ClearDns\obj\Debug\ClearDns.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\source\repos\ClearDns\ClearDns\obj\Debug\ClearDns.exe
+C:\Users\Carlo\source\repos\ClearDns\ClearDns\obj\Debug\ClearDns.pdb

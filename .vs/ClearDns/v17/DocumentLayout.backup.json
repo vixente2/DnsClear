@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Carlo\\source\\repos\\ClearDns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D919E1B-B370-442C-BBC2-5124AB1D5CBE}|ClearDns\\ClearDns.csproj|c:\\users\\carlo\\source\\repos\\cleardns\\cleardns\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D919E1B-B370-442C-BBC2-5124AB1D5CBE}|ClearDns\\ClearDns.csproj|solutionrelative:cleardns\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D919E1B-B370-442C-BBC2-5124AB1D5CBE}|ClearDns\\ClearDns.csproj|c:\\users\\carlo\\source\\repos\\cleardns\\cleardns\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D919E1B-B370-442C-BBC2-5124AB1D5CBE}|ClearDns\\ClearDns.csproj|solutionrelative:cleardns\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Carlo\\source\\repos\\ClearDns\\ClearDns\\Form1.cs",
+              "RelativeDocumentMoniker": "ClearDns\\Form1.cs",
+              "ToolTip": "C:\\Users\\Carlo\\source\\repos\\ClearDns\\ClearDns\\Form1.cs",
+              "RelativeToolTip": "ClearDns\\Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T17:35:00.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Carlo\\source\\repos\\ClearDns\\ClearDns\\Form1.cs",
+              "RelativeDocumentMoniker": "ClearDns\\Form1.cs",
+              "ToolTip": "C:\\Users\\Carlo\\source\\repos\\ClearDns\\ClearDns\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ClearDns\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T17:33:33.94Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
